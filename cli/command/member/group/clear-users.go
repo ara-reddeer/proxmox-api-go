@@ -1,8 +1,8 @@
 package group
 
 import (
-	"github.com/Telmate/proxmox-api-go/cli"
-	"github.com/Telmate/proxmox-api-go/proxmox"
+	"github.com/ara-reddeer/proxmox-api-go/cli"
+	"github.com/ara-reddeer/proxmox-api-go/proxmox"
 	"github.com/spf13/cobra"
 )
 

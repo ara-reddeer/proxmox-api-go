@@ -2,8 +2,9 @@ package cli_metricservers_test
 
 import (
 	"testing"
-	_ "github.com/Telmate/proxmox-api-go/cli/command/commands"
-	cliTest "github.com/Telmate/proxmox-api-go/test/cli"
+
+	_ "github.com/ara-reddeer/proxmox-api-go/cli/command/commands"
+	cliTest "github.com/ara-reddeer/proxmox-api-go/test/cli"
 )
 
 func Test_MetricServer_Errors_Type(t *testing.T) {
